@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="button_text">roll</string>
+    <string name="button_description">roll the button</string>
+    <string name="casino_logo">Casino logo</string>
+    <string name="right_dice">Right Dice</string>
+    <string name="left_dice">Left dice</string>
+</resources>
